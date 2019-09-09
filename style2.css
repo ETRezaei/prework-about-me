@@ -1,0 +1,28 @@
+.img1{
+    border: 20px dotted pink;
+}
+.centered{
+    text-align: center;
+    color: blue
+}
+.yellow{
+    color: yellow
+}
+.bold{
+    font-weight: bold;
+    color: orange;
+    font-size: 15px
+}
+.link{
+    color: aqua
+}
+
+.song{
+    text-align: center;
+    color: chartreuse;
+    font-weight: bold;
+    font-size: 25px
+}
+.body{
+    background: black
+}
